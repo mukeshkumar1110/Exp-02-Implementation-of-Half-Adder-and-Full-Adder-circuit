@@ -1,4 +1,4 @@
-# Developed by: mukesh kumar S
+# Developed by: Mukesh Kumar S
 # Register Number: 212223240099
 
 # EXP-03 Implementation-of-Half-Adder-and-Full-Adder-circuit
